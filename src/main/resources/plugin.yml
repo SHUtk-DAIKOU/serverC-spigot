@@ -1,0 +1,5 @@
+name: ServerCreator
+version: '${project.version}'
+main: me.otatoge.servercreator.Main
+load: STARTUP
+description: Core plugin
